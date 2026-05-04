@@ -2,13 +2,10 @@
   <img src="https://sinavm.github.io/sinavm/logo/sinavm_logo.jpg" alt="V2Ray Collector Banner" width="120">
 </p>
 
-# 🌠 V2Ray Collector
+# 🌠 SpaceVpn
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/sinavm/SVM?color=1e90ff&style=flat-square" alt="Top Language">
-  <img src="https://img.shields.io/github/license/sinavm/SVM?color=2ecc71&style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/stars/sinavm/SVM?color=ffca28&style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/commit-activity/t/sinavm/SVM?color=ff4757&style=flat-square" alt="Commit Activity">
+
 </p>
 
 <p align="center">
@@ -21,7 +18,7 @@
 <div dir="rtl">
 
 ### 🌟 درباره SpaceVpn
-🎯 **V2Ray Collector** یه ابزار PHP خفن و قدرتمنده که کانفیگ‌های V2Ray رو از کانال‌های مختلف جمع‌آوری می‌کنه و توی فایل‌های اشتراکی ذخیره می‌کنه. این پروژه فقط برای اهداف آموزشیه و استفاده تجاری یا شخصی ازش ممنوعه!
+🎯 **V2Ray Collector** یه ابزار PHP خفن و قدرتمنده که کانفیگ‌های V2Ray هر چند ساعت کانفیگ رو از کانال‌های مختلف جمع‌آوری می‌کنه و توی فایل‌های اشتراکی ذخیره می‌کنه. این پروژه فقط برای اهداف آموزشیه و استفاده تجاری یا شخصی ازش ممنوعه!
 
 ### 🛠️ ویژگی‌های کلیدی
 - 🔄 جمع‌آوری خودکار کانفیگ‌ها از منابع مختلف.
