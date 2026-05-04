@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://sinavm.github.io/sinavm/logo/sinavm_logo.jpg" alt="V2Ray Collector Banner" width="120">
+
 </p>
 
 # 🌠 SpaceVpn
@@ -37,7 +37,7 @@
 | کلاینت 
 
 ### 📞 تماس با ما
-تلگرام:t.me/SilentIgnit 👈🏻 []
+تلگرام:t.me/ 👈🏻 []
 </div>
 
 ---
